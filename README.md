@@ -1,4 +1,7 @@
 # GAN-Assgn-Frontend-Param
+
+A bakery ecommerce site made using React.
+
 In the project directory, you can run:
 
 npm start
